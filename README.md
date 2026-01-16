@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 B.Tech CSE @ IIIT Bhopal (9.21 CGPA)<br>⚡ CP: CodeChef 3★ (1782), LeetCode Knight (1935), Codeforces Pupil (1350)<br>📱 Android: Jetpack Compose, KMP, MVVM, Retrofit, Firebase<br>💻 Languages: C/C++, Kotlin, Python, Dart<br>🔧 Frameworks: Flutter, Jetpack Compose, Kotlin MultiPlatform Compose (KMP)<br>🛠 Tools: Android Studio, Git/GitHub, VS Code<br>📚 DSA | OS | DBMS | OOP | REST APIs<br>
+🔨 B.Tech CSE @ IIIT Bhopal (9.21 CGPA)<br>⚡ CP: CodeChef 4★ (1805), LeetCode Knight (1935), Codeforces Specialist (1413)<br>📱 Android: Jetpack Compose, KMP, MVVM, Retrofit, Firebase<br>💻 Languages: C/C++, Kotlin, Python, Dart<br>🔧 Frameworks: Flutter, Jetpack Compose, Kotlin MultiPlatform Compose (KMP)<br>🛠 Tools: Android Studio, Git/GitHub, VS Code<br>📚 DSA | OS | DBMS | OOP | REST APIs<br>
 
 
 ## 🌐 Socials:
