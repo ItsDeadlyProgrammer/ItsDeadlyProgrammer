@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Harshvardhan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Kotlin%20%C2%B7%20Java%20%C2%B7%20Competitive%20Programmer&descSize=16&descAlignY=60" width="100%" alt="Harshvardhan Singh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Harshvardhan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Kotlin%20%C2%B7%20Android%20%C2%B7%20Competitive%20Programmer&descSize=16&descAlignY=60" width="100%" alt="Harshvardhan Singh" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+systems+where+the+code+proves+the+result.;Spring+Boot+%2F+Ktor+backends+%C2%B7+Redis+%C2%B7+Docker+sandboxes;Kotlin+Multiplatform+apps+for+Android%2C+Desktop+%26+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+systems+where+the+code+proves+the+result.;Android+%26+Kotlin+Multiplatform+apps+with+Jetpack+Compose;C%2B%2B+competitive+programmer+%C2%B7+2000%2B+problems+solved;Ktor+backends+%C2%B7+Redis+%C2%B7+Docker+sandboxes" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 ```kotlin
 object Harshvardhan {
     val education  = "B.Tech CSE @ IIIT Bhopal  ·  CGPA 9.29"
-    val role       = "Full-Stack / Backend Engineer"
+    val role       = "Software Engineer  ·  Android & Kotlin"
     val building   = listOf("LLM-powered developer tools", "Online judges", "Kotlin Multiplatform apps")
     val principle  = "The LLM proposes. The sandbox proves."
-    val coreCS     = setOf("DSA", "Operating Systems", "DBMS", "OOP", "System Design")
+    val strengths  = setOf("Kotlin", "C++", "Android", "Data Structures & Algorithms")
     val openTo     = "SDE internships & full-time roles"
     val reachMe    = "hvsr29march2004@gmail.com"
 }
@@ -96,21 +96,25 @@ object Harshvardhan {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,py,ts,spring,ktor,react,androidstudio,postgres,redis,docker,githubactions,pytorch,linux&perline=15" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,cpp,c,androidstudio,flutter,ktor,java,py,spring,postgres,redis,docker,git,githubactions,linux&perline=15" alt="Tech stack" />
 </p>
 
 <table>
   <tr>
     <td width="22%"><b>Languages</b></td>
-    <td><code>Kotlin</code> <code>Java</code> <code>C++</code> <code>C</code> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Dart</code> <code>SQL</code></td>
+    <td><code>Kotlin</code> <code>C++</code> <code>C</code> <code>Java</code> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Dart</code> <code>SQL</code></td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td><code>Spring Boot</code> <code>Spring AI</code> <code>Spring Security</code> <code>JPA / Hibernate</code> <code>Ktor</code> <code>Node.js</code> <code>REST</code> <code>WebSockets</code> <code>SSE</code></td>
+    <td><b>CS Core</b></td>
+    <td><code>Data Structures</code> <code>Algorithms</code> <code>Competitive Programming</code> <code>Operating Systems</code> <code>DBMS</code> <code>OOP</code></td>
   </tr>
   <tr>
     <td><b>Mobile &amp; Frontend</b></td>
     <td><code>Jetpack Compose</code> <code>Compose Multiplatform</code> <code>Android</code> <code>Flutter</code> <code>React</code></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><code>Ktor</code> <code>Spring Boot</code> <code>Spring AI</code> <code>Spring Security</code> <code>JPA / Hibernate</code> <code>Node.js</code> <code>REST</code> <code>WebSockets</code> <code>SSE</code></td>
   </tr>
   <tr>
     <td><b>Data</b></td>
