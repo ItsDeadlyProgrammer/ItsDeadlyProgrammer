@@ -34,33 +34,64 @@ object Harshvardhan {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/ItsDeadlyProgrammer/stressbugger-portfolio">StressBugger</a></h3>
-      <sub><b>AI-guided stress tester for competitive programming</b></sub>
-      <p>Finds the exact input that breaks your solution. An LLM writes generators, checkers and brute forces; every one is verified in a hardened sandbox before it is trusted. It shrinks failures to a minimal counterexample and proposes a fix that is re-run before it is called verified.</p>
+    <td width="52%" valign="middle">
+      <a href="https://stressbugger.netlify.app"><img src="https://raw.githubusercontent.com/ItsDeadlyProgrammer/stressbugger-portfolio/main/screenshots/session-dashboard.png" alt="StressBugger dashboard" /></a>
+    </td>
+    <td width="48%" valign="top">
+      <sub>01 &nbsp;·&nbsp; AI DEVELOPER TOOL</sub>
+      <h3>StressBugger</h3>
+      <i>Finds the exact input that breaks your competitive-programming solution.</i>
+      <ul>
+        <li>An LLM writes test generators, checkers and brute forces; each must compile, pass samples and agree with the others before it is trusted</li>
+        <li>Stress-tests <b>~1,000 inputs per minute</b> in a hardened Docker sandbox (C++, Java, Python)</li>
+        <li>Shrinks failures to a minimal counterexample and only marks a fix <b>verified</b> after re-running it</li>
+      </ul>
       <p><code>Java 21</code> <code>Spring Boot</code> <code>Spring AI</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
-      <p><a href="https://stressbugger.netlify.app"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ItsDeadlyProgrammer/stressbugger-portfolio">Docs</a></p>
+      <a href="https://stressbugger.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge" alt="Live demo" /></a>
+      <a href="https://github.com/ItsDeadlyProgrammer/stressbugger-portfolio"><img src="https://img.shields.io/badge/Case_Study-21262d?style=for-the-badge&logo=github" alt="Case study" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/ItsDeadlyProgrammer/Codeforge-Portfolio">CodeForge</a></h3>
-      <sub><b>Full-stack online judge</b></sub>
-      <p>LeetCode-meets-Codeforces platform. Runs C++, Java and Python in isolated Docker sandboxes, dispatches judge jobs through a Redis queue, imports problems from Codeforces, and ships Web, Android and Desktop from one Kotlin codebase.</p>
+  </tr>
+  <tr>
+    <td width="48%" valign="top">
+      <sub>02 &nbsp;·&nbsp; ONLINE JUDGE</sub>
+      <h3>CodeForge</h3>
+      <i>A LeetCode-meets-Codeforces platform built from scratch.</i>
+      <ul>
+        <li>Judges C++, Java and Python in isolated Docker sandboxes with time and memory tracking</li>
+        <li>A <b>Redis job queue</b> decouples the Ktor API from the judge workers</li>
+        <li>Imports problems straight from Codeforces; <b>one Kotlin codebase</b> ships Web (Wasm), Android and Desktop</li>
+      </ul>
       <p><code>Kotlin</code> <code>Ktor</code> <code>Compose Multiplatform</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
-      <p><a href="https://super-lolly-fd22a7.netlify.app/"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ItsDeadlyProgrammer/Codeforge-Portfolio">Docs</a></p>
+      <a href="https://super-lolly-fd22a7.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge" alt="Live demo" /></a>
+      <a href="https://github.com/ItsDeadlyProgrammer/Codeforge-Portfolio"><img src="https://img.shields.io/badge/Case_Study-21262d?style=for-the-badge&logo=github" alt="Case study" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/ItsDeadlyProgrammer/OperatingSystem-Portfolio">OS Simulator</a></h3>
-      <sub><b>Interactive operating systems visualizer</b></sub>
-      <p>CPU scheduling with live Gantt charts (FCFS, SJF, SRTF, Round Robin, Priority), deadlock detection with the Banker's algorithm, and memory allocation with fragmentation analysis. Runs natively on Android, Desktop and the browser via Wasm.</p>
+    <td width="52%" valign="middle">
+      <a href="https://super-lolly-fd22a7.netlify.app/"><img src="https://raw.githubusercontent.com/ItsDeadlyProgrammer/Codeforge-Portfolio/main/screenshots/dashboard.png" alt="CodeForge dashboard" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="52%" valign="middle">
+      <a href="https://verdant-cat-fac52f.netlify.app/"><img src="https://raw.githubusercontent.com/ItsDeadlyProgrammer/OperatingSystem-Portfolio/main/screenshots/process_scheduling.png" alt="OS Simulator process scheduling" /></a>
+    </td>
+    <td width="48%" valign="top">
+      <sub>03 &nbsp;·&nbsp; SYSTEMS VISUALIZER</sub>
+      <h3>OS Simulator</h3>
+      <i>Operating systems concepts you can watch run.</i>
+      <ul>
+        <li>CPU scheduling (FCFS, SJF, SRTF, Round Robin, Priority) with live <b>Gantt charts</b> and waiting/turnaround metrics</li>
+        <li>Deadlock detection on resource allocation graphs with <b>Banker's algorithm</b> safe sequences</li>
+        <li>Memory allocation (First, Best, Worst, Next Fit) with fragmentation analysis</li>
+      </ul>
       <p><code>Kotlin Multiplatform</code> <code>Compose</code> <code>Wasm</code> <code>MVVM</code></p>
-      <p><a href="https://verdant-cat-fac52f.netlify.app/"><b>Live demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ItsDeadlyProgrammer/OperatingSystem-Portfolio">Docs</a></p>
+      <a href="https://verdant-cat-fac52f.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge" alt="Live demo" /></a>
+      <a href="https://github.com/ItsDeadlyProgrammer/OperatingSystem-Portfolio"><img src="https://img.shields.io/badge/Case_Study-21262d?style=for-the-badge&logo=github" alt="Case study" /></a>
     </td>
   </tr>
 </table>
 
-<sub>Source code for these projects is private. Recruiters and reviewers can <a href="mailto:hvsr29march2004@gmail.com">email me</a> for access.</sub>
+<p align="center"><sub>Source code for these projects is private. Recruiters and reviewers can <a href="mailto:hvsr29march2004@gmail.com">email me</a> for access.</sub></p>
 
-<br><br>
+<br>
 
 ## Tech Stack
 
