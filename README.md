@@ -55,18 +55,18 @@ object Harshvardhan {
     <td width="48%" valign="top">
       <sub>02 &nbsp;·&nbsp; ONLINE JUDGE</sub>
       <h3>CodeForge</h3>
-      <i>A LeetCode-meets-Codeforces platform built from scratch.</i>
+      <i>An online judge built from scratch: Codeforces problems in, sandboxed verdicts out.</i>
       <ul>
-        <li>Judges C++, Java and Python in isolated Docker sandboxes with time and memory tracking</li>
-        <li>A <b>Redis job queue</b> decouples the Ktor API from the judge workers</li>
-        <li>Imports problems straight from Codeforces; <b>one Kotlin codebase</b> ships Web (Wasm), Android and Desktop</li>
+        <li>Compiles once, then runs every test with <b>CPU, memory and output limits</b>, reporting the program's real peak memory</li>
+        <li><b>Crash-safe queue:</b> PostgreSQL leases with a reaper; Redis only wakes the workers</li>
+        <li>A <b>Docker container per submission</b> when self-hosted; <b>one Kotlin codebase</b> ships Web (Wasm), Android and Desktop</li>
       </ul>
       <p><code>Kotlin</code> <code>Ktor</code> <code>Compose Multiplatform</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
       <a href="https://super-lolly-fd22a7.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge" alt="Live demo" /></a>
       <a href="https://github.com/ItsDeadlyProgrammer/Codeforge-Portfolio"><img src="https://img.shields.io/badge/Case_Study-21262d?style=for-the-badge&logo=github" alt="Case study" /></a>
     </td>
     <td width="52%" valign="middle">
-      <a href="https://super-lolly-fd22a7.netlify.app/"><img src="https://raw.githubusercontent.com/ItsDeadlyProgrammer/Codeforge-Portfolio/main/screenshots/dashboard.png" alt="CodeForge dashboard" /></a>
+      <a href="https://super-lolly-fd22a7.netlify.app/"><img src="https://raw.githubusercontent.com/ItsDeadlyProgrammer/Codeforge-Portfolio/main/screenshots/dashboard.png" alt="CodeForge: an accepted C++ submission with three passed test cases" /></a>
     </td>
   </tr>
   <tr>
