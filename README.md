@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/harshvardhan-singh-49969b242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hvsr29march2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/CodeChef-4★%201805-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef 4 star">
-  <img src="https://img.shields.io/badge/LeetCode-Knight%201935-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Knight">
+  <img src="https://img.shields.io/badge/LeetCode-Knight%202059-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Knight">
   <img src="https://img.shields.io/badge/Codeforces-Specialist%201412-03A89E?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Specialist">
 </p>
 
